@@ -8,5 +8,5 @@
 
  (b) Spectrum Analysis code demonstrates
      (1) Reading the Fermi GBM + LLE data file: Via 3ML plugin
-     (2) Fitting the Band and BandHighecut empirical models for the Bayesian bins obtained in the above step
+     (2) Fitting the Band and BandHighecut empirical models for the Bayesian blocks 
      (3) Plotting and Storing the evolution of fit parameters
