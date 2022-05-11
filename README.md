@@ -1,7 +1,7 @@
 ## GRB_Data_Analysis
  Useful for complete Fermi data analysis from light curve to spectrum
  
- (a) Demonstrates: 
+ (a) Lightcurve code Demonstrates: 
      (1) Extracts and Plot Composite Light curve of Fermi: NaI, BGO, LLE and LAT detectors
      (2) Binning for time-resolved analysis
      (3) Writing the bins to PHAII type file for spectral analysis
